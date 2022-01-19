@@ -1,0 +1,10 @@
+C:\Users\JADPA_11\source\repos\a\a\bin\Debug\a.exe.config
+C:\Users\JADPA_11\source\repos\a\a\bin\Debug\a.exe
+C:\Users\JADPA_11\source\repos\a\a\bin\Debug\a.pdb
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.csprojAssemblyReference.cache
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.Form1.resources
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.exe
+C:\Users\JADPA_11\source\repos\a\a\obj\Debug\a.pdb
